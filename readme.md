@@ -26,9 +26,10 @@ This website contains description about :
 </body>
 </html>
 ```
-[Click✅ here to visit Mesmerizing-Mansi](C:/Users/user/Desktop/mesmerizing-mansi/index.html)
+[Click✅ here to visit Mesmerizing-Mansi](index.html)
 
  ### CONTRIBUTOR
+ 
  <a href="https://github.com/mansiB-1706/mesmerizing-mansi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mansiB-1706/mesmerizing-mansi" />
 </a>
